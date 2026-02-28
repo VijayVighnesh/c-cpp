@@ -1,0 +1,8 @@
+# Ignore all compiled executables in c/ and cpp/ directories
+c/*
+!c/*.c
+!c/*.h
+
+cpp/*
+!cpp/*.cpp
+!cpp/*.h
